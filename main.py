@@ -19,6 +19,7 @@ ALLOWED_ORIGINS = [
     "https://app-oeacc6.example.com",   # assigned origin
     # Add the exact origin of the grader/exam page below, e.g.:
     # "https://exam.someplatform.com",
+    "https://exam.sanand.workers.dev",
 ]
 
 RATE_LIMIT = 13          # requests
